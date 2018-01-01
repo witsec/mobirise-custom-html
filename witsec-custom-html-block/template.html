@@ -1,0 +1,18 @@
+<section mbr-id="_anchor" class="mbr-section"
+ mbr-class-mbr-background="_params.bgImageRadio | unless _params.parallax"
+ mbr-class-mbr-parallax-background="_params.parallax | if _params.bgImageRadio"
+ mbr-bg-image="_params.bgImage | if _params.bgImageRadio"
+ mbr-bg-color="_params.bgColor | if _params.bgColorRadio">
+ <style mbr-html="paddingTop">
+ .block {
+ padding-bottom:2rem;
+ padding-top:2rem;
+ }
+ </style>
+ 
+ <div class="mbr-overlay" mbr-if="_params.overlay | unless _params.bgColorRadio" mbr-opacity="_params.overlayOpacity" mbr-bg-color="_params.overlayColor"></div> 
+
+
+ <div class="mbr-section__container block" style="width: 100%;" mbr-html="HTMLCode"></div>
+
+</section>

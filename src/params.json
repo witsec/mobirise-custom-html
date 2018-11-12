@@ -1,9 +1,9 @@
 {
-   "name" : "Custom HTML Block",
+   "name" : "Custom HTML v0.2",
    "alias" : "witsec-custom-html",
-   "version" : 0.1,
+   "version" : 0.2,
    "minAppVersion" : "4",
    "components" : [ "witsec-custom-html-block" ],
-   "description" : "Add an entirely empty block to your website where you can place your custom HTML.",
+   "description" : "Add an entirely empty block to your website where you can place your custom HTML. <a href='https://witsec.nl'>Learn more...</a>",
    "logo" : "thumbnail.png"
 }

@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.3 (2018-11-13)
+
+- Fixed padding typo in template
+
 ## 0.2 (2018-11-12)
 
 - Added 'Hide Block on Publish' switch. This is useful if you're adding Javascript only, or when HTML shouldn't be visible

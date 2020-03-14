@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v2 (2020-03-14)
+
+- Fixed compatibility with Mobirise v5
+
 ## 0.3 (2018-11-13)
 
 - Fixed padding typo in template
